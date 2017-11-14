@@ -1,0 +1,310 @@
+.navbar {
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 15px !important;
+    letter-spacing: 0.5px;
+	opacity:1;
+	font-family: Verdana;
+	    
+}
+
+.container-fluid{
+	background-color: #2d2d30;
+	opacity:1;
+	
+}
+
+
+
+.navbar-default a.navbar-brand{
+	color:#118c74 !important;
+	font-size:35px;
+}
+
+@media screen and (max-width: 880px) {
+   .navbar-default a.navbar-brand{
+	color:#118c74 !important;
+	font-size:30px;
+}}
+
+@media screen and (max-width: 450px) {
+   .navbar-default a.navbar-brand{
+	color:#118c74 !important;
+	font-size:27px;
+}}
+
+@media screen and (max-width: 835px) {
+   .navbar-default a.navbar-brand{
+	color:#118c74 !important;
+	font-size:25px;
+}}
+
+
+@media screen and (max-width: 360px) {
+   .navbar-default a.navbar-brand{
+	color:#118c74 !important;
+	font-size:20px;
+}}
+
+
+
+
+
+
+
+
+.ul
+{
+	display:inline;
+	list-style:none;
+	padding-left:-40px;
+	font-family: Verdana;
+}
+
+.navbar li a, .navbar { 
+    color: #118c74 !important;
+	font-size: 16px;
+	font-family: Verdana;
+
+	
+}
+
+.carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+}
+
+.container-fluid{
+	width: 100%;	
+}
+
+.container {
+	margin-bottom: 50px;
+}
+
+.row{
+	margin-bottom: 20px;
+	margin-left: 10px;
+} 
+
+.carousel-caption h3 {
+    color: #fff !important;
+	font-family: Verdana;
+}
+
+.page{
+	width:970px; 
+	background:#6bb6ed; 
+	margin:0 auto;
+	margin-bottom:20px;
+	font-family: Verdana;
+}
+
+.page p{
+	font-size:16px;
+}
+
+.page .title
+{
+	text-align:center;
+	margin-top: 20px;
+	color:#fff;
+	padding-top: 0.5px;
+	padding-bottom:0.9px;
+	font-family: Verdana;
+}
+	
+
+.Tabela {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    border: 1px solid #000000;
+	font-family: Verdana;
+}
+
+.Tabela table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+	font-family: Verdana;
+}
+
+.tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+	font-family: Verdana;
+	
+}
+
+.table, th, td, desno {
+    border: 1px solid black;
+	text-align: center;
+	background-color:#f2f2f2;
+	color:black;
+	font-family: Verdana;
+}
+
+.footer-wrapper .panel
+{
+	background-color:#2d2d30;
+	color:#118c74;
+	text-align:center;
+	opacity:1;
+	width:100%;
+	font-family: Verdana;
+	margin-bottom:0px !important;
+}
+
+.title, p{
+	color:#118c74;
+	font-size:20px;
+}
+
+.search , ul
+{
+	list-style-type:none;
+	text-align:center;
+	font-family: Verdana;
+	
+}
+
+.search 
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	font-family: Verdana;
+}
+
+.search1
+{
+	margin-top:-10px;
+	margin-bottom:-20px;
+	font-family: Verdana;
+}
+
+
+
+.content_wrap
+{
+	height:250px;
+	font-family: Verdana;
+	
+}
+
+.page, padding-bottom
+{
+	width:100%;
+	margin-top:30px;
+	margin-bottom:30px;
+	font-family: Verdana;
+}
+
+.content_wrap1
+{
+	height:600px;
+	
+}
+
+.content_wrap2
+{
+	height:400px;
+	
+}
+
+.search-filed {
+    width: 180px;
+    height: 36px;
+    border: none;
+    background: white;
+    text-indent:5px;
+    font-family: Verdana;
+    font-size: 13px;
+    color: black;
+	padding-left:0px;
+	margin-bottom:5px;
+}
+
+.btn-primary  {
+    color: #fff;
+	font-family: Verdana;
+    background-color: #b73364 !important; 
+    border-color: #730a3b !important;
+}
+
+.ul1
+{
+	font-family: Verdana;
+	padding-left:0px;
+}
+
+
+.form {
+    border: 3px solid #f1f1f1;
+}
+
+.unos[type=text] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.unos[type=password] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.dugme {
+    background-color: #118c74; 
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+}
+
+.dugme:hover {
+    opacity: 0.8;
+}
+
+.prijava{
+    padding: 16px;
+	padding-right: 0px; 
+    padding-left: 0px; 
+	width:100%;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 60px 0 12px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
